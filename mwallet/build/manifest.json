@@ -1,0 +1,13 @@
+{
+  "name": "Salford Wallet",
+  "version": "1.0.0",
+  "description": "Crypto Wallet Extension",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open Wallet"
+  },
+  "permissions": [
+    "storage"
+  ]
+}

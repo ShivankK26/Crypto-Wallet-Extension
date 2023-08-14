@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc2421d5.css",
+    "main.js": "/static/js/main.c20c105c.js",
+    "static/media/noImg.png": "/static/media/noImg.c8524b4819bc2c88e490.png",
+    "static/media/mwallet.png": "/static/media/mwallet.87c2865f70226b9dee70.png",
+    "index.html": "/index.html",
+    "main.dc2421d5.css.map": "/static/css/main.dc2421d5.css.map",
+    "main.c20c105c.js.map": "/static/js/main.c20c105c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc2421d5.css",
+    "static/js/main.c20c105c.js"
+  ]
+}
