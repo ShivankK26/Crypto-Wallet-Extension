@@ -42,7 +42,7 @@ To get started, download the entire Source Code and then follow the Documentatio
       https://react.dev/
   ```  
 
-* Reac Router DOM Documentation Link
+* React Router DOM Documentation Link
 
   ```sh
       https://v5.reactrouter.com/
